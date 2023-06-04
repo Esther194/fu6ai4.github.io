@@ -1,0 +1,32 @@
+img {
+  width: 500px;
+  height: auto;
+}
+a{
+  font-size:2em;
+  color:#FFFF6F;
+}
+#left {
+  float:left;
+  background:#2894FF;
+  width:20%
+}
+
+#right{
+  float:right;
+  width:20%;
+  background:#2894FF;
+}
+#center{
+  float:right;
+  width:60%;
+  background:	#6A6AFF;
+}
+#footer 
+{
+  height: 100px;
+  background-color:#3C3C3C;
+  color:#FFFF6F;
+  text-align: center;
+  clear: both;
+}
